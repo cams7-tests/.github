@@ -1,7 +1,7 @@
 {
     "name": "'CAMs7 tests' Organization Workflow",
     "description": "'CAMs7 tests' Organization CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "brazil",
     "categories": [
         "Go"
     ],
