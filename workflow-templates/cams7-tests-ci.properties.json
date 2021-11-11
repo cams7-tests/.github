@@ -1,0 +1,13 @@
+{
+    "name": "'CAMs7 tests' Organization Workflow",
+    "description": "'CAMs7 tests' Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
